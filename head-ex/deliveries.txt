@@ -1,0 +1,36 @@
+
+Depot:
+Seattle, WA
+Description:
+Shirts
+Address:
+Ian Gillan 223
+Suburb
+145UHG
+
+Depot:
+Cambridge, UK
+Description:
+Books
+Address:
+56 Baker stree
+London
+236G 93U
+
+Depot:
+Luxor, Egypt
+Description:
+Papyrus
+Address:
+Mohamed ALi 23
+Mechment
+Luxor
+
+Depot:
+Cambridge, UK
+Description:
+Cheese
+Address:
+2 Chhese wat
+UK
+
